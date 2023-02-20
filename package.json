@@ -1,0 +1,31 @@
+{
+  "name": "mini-webpack-branch",
+  "version": "1.0.0",
+  "description": "自学实现 mini 版 webpack、loader 和 plugin",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dancer-CoderD/mini-webpack-branch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dancer-CoderD/mini-webpack-branch/issues"
+  },
+  "homepage": "https://github.com/Dancer-CoderD/mini-webpack-branch#readme",
+  "devDependencies": {
+    "@babel/parser": "^7.20.15",
+    "@babel/traverse": "^7.20.13",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "ejs": "^3.1.8"
+  }
+}
